@@ -24,4 +24,6 @@ void main() {
     else if(op == 4) {
         printf("\nRESULTADO:\n %d/%d = %.2f", x, y, x / y);
     }
+    else {
+	printf("Numero Invalido!");
 }
