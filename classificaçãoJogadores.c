@@ -15,7 +15,7 @@ void main()
   double men;
   double tat;
   int i = 0;
-  printf("|| Sem bem vindo ao Polvo Sports! ||\n\nAqui voce pode calcular a habilidade geral de algum jogador ou, até mesmo, comparar 2 ou mais jogadores.\n");
+  printf("|| Sem bem vindo ao Polvo Sports! ||\n\nAqui voce pode calcular a habilidade geral de algum jogador ou, até mesmo, comparar 2 jogadores.\n");
   while(i == 0)
   {
     int op;
